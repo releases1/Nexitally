@@ -38,15 +38,15 @@ Nexitally 不同于那些采用 SSpanel和V2board 面板的机场，其面板为
 
 **基础服务**
 
-![image](https://raw.githubusercontent.com/winston779/nexitally/main/1.jpg)
+![image](https://github.com/releases1/Nexitally/blob/main/1.png?raw=true)
 
 **附加服务（附加服务无法独立于基础服务单独工作）**
 
-![image](https://raw.githubusercontent.com/winston779/nexitally/main/2.jpg)
+![image](https://github.com/releases1/Nexitally/blob/main/2.png?raw=true)
 
 **流媒体服务**
 
-![image](https://raw.githubusercontent.com/winston779/nexitally/main/3.jpg)
+![image](https://github.com/releases1/Nexitally/blob/main/3.png?raw=true)
 
 
-![image](https://raw.githubusercontent.com/winston779/nexitally/main/4.jpg)
+
