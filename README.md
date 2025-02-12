@@ -10,15 +10,6 @@ Nexitally 不同于那些采用 SSpanel和V2board 面板的机场，其面板为
 
 针对个人用户，Nexitally 也能很好的满足观影需求，支持Netflix、Disney+等流媒体解锁。
 
-## Nexitally优惠码
-
-[圣诞节🎄优惠活动]
-
-🎁充值满1000元 赠送100元账户余额 所有用户适用
-
-🎈Smart Access Air限时新用户开放购买
-
-有效期至  2023-12-27
 
 ## Nexitally机场怎么样
 
